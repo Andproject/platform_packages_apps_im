@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="im_label">"IM"</string>
+    <string name="menu_cancel_signin">"Oturum açmayı iptal et"</string>
+    <string name="menu_add_contact">"Kişi ekle"</string>
+    <string name="menu_remove_contact">"Kişi sil"</string>
+    <string name="menu_block_contact">"Kişiyi engelle"</string>
+    <string name="menu_view_blocked">"Engellendi"</string>
+    <string name="menu_view_accounts">"Hesap listesi"</string>
+    <string name="menu_settings">"Ayarlar"</string>
+    <string name="menu_start_chat">"Sohbet başlat"</string>
+    <string name="menu_sign_out">"Oturumu kapat"</string>
+    <string name="menu_view_profile">"Profil görüntüle"</string>
+    <string name="menu_end_conversation">"Sohbeti sonlandır"</string>
+    <string name="menu_view_contact_list">"Kişi listesi"</string>
+    <string name="menu_invite_contact">"Davet et..."</string>
+    <string name="menu_switch_chats">"Sohbetleri değiştir"</string>
+    <string name="menu_insert_smiley">"İfade ekle"</string>
+    <!-- no translation found for menu_plus (5000617247235760106) -->
+    <skip />
+    <string name="default_input_title">"Giriş"</string>
+    <string name="confirm">"Onayla"</string>
+    <string name="confirm_delete_contact">"\"<xliff:g id="USER">%1$s</xliff:g>\" kişisi silinecek."</string>
+    <string name="confirm_block_contact">"\"<xliff:g id="USER">%1$s</xliff:g>\" kişisi engellenecek."</string>
+    <string name="confirm_unblock_contact">"\"<xliff:g id="USER">%1$s</xliff:g>\" adlı kişinin engellemesi kaldırılacak."</string>
+    <string name="ok">"Tamam"</string>
+    <string name="cancel">"İptal et"</string>
+    <string name="yes">"Tamam"</string>
+    <string name="no">"İptal et"</string>
+    <string name="signed_out_prompt">"<xliff:g id="ACCOUNT">%1$s</xliff:g> oturumunu kapattınız."</string>
+    <string name="signed_out_prompt_with_error">"<xliff:g id="REASON">%2$s</xliff:g> nedeniyle <xliff:g id="ACCOUNT">%1$s</xliff:g> oturumunu kapattınız."</string>
+    <string name="add_account">"<xliff:g id="ACCOUNT">%1$s</xliff:g> hesabı ekle"</string>
+    <string name="label_username">"Kullanıcı adı:"</string>
+    <string name="label_password">"Şifre:"</string>
+    <string name="remember_password">"Şifremi hatırla."</string>
+    <string name="keep_me_signed_in">"Otomatik olarak oturum aç."</string>
+    <string name="sign_up">"Hesabınız yok mu?"</string>
+    <string name="check_auto_sign_in">"Bu seçenek, bu uygulamayı her açtığınızda otomatik olarak oturum açmanızı sağlar. Bu seçeneği devre dışı bırakmak için oturumu kapatın ve \"Otomatik olarak oturum aç\" onay kutusundaki işareti kaldırın."</string>
+    <string name="sign_in">"Oturum aç"</string>
+    <string name="signing_in_to">"<xliff:g id="ACCOUNT">%1$s</xliff:g> hesabında oturum açma"</string>
+    <string name="signing_in_wait">"Oturum açılıyor..."</string>
+    <!-- no translation found for bg_data_prompt_title (4861800723853178111) -->
+    <skip />
+    <!-- no translation found for bg_data_prompt_message (2343305645142823544) -->
+    <skip />
+    <!-- no translation found for bg_data_prompt_ok (3443385427882751532) -->
+    <skip />
+    <!-- no translation found for bg_data_prompt_cancel (7206105589826174638) -->
+    <skip />
+    <string name="ongoing_conversation">"Devam eden sohbetler (<xliff:g id="NUMBER">%1$d</xliff:g>)"</string>
+    <string name="online_count">"<xliff:g id="NUMBER">%1$d</xliff:g> çevrimiçi"</string>
+    <string name="subscriptions">"Arkadaş davetleri"</string>
+    <string name="unknown_contact">"("<i>"Bilinmiyor"</i>")"</string>
+    <string name="empty_contact_group">"Boş"</string>
+    <string name="empty_conversation_group">"Konuşma yok"</string>
+    <string name="contacts_picker_title">"Davet etmek için kişi (kişler) seç"</string>
+    <string name="contact_filter_hint">"Kişiyi bulmak için yazın"</string>
+    <string name="empty_contact_list">"Kişi bulunamadı."</string>
+    <string name="blocked_list_title">"Engellenen kişiler - <xliff:g id="USER">%1$s</xliff:g>"</string>
+    <string name="no_blocked_contact">"Engellenen kişi yok."</string>
+    <string name="contact_profile_title">"Kişi profili"</string>
+    <string name="label_status">"Durum:"</string>
+    <string name="label_client_type">"İstemci türü:"</string>
+    <string name="client_type_computer">"Bilgisayar"</string>
+    <string name="client_type_mobile">"Mobil"</string>
+    <string name="presence_available">"Çevrimiçi"</string>
+    <string name="presence_busy">"Meşgul"</string>
+    <string name="presence_away">"Dışarıda"</string>
+    <string name="presence_idle">"Hareketsiz"</string>
+    <string name="presence_offline">"Çevrimdışı"</string>
+    <string name="presence_invisible">"Çevrimdışı görün"</string>
+    <string name="chat_with">"<xliff:g id="USER">%1$s</xliff:g> ile sohbet"</string>
+    <string name="me">"Ben"</string>
+    <!-- no translation found for compose_hint (1735533889811320962) -->
+    <skip />
+    <string name="contact_online">"<xliff:g id="USER">%1$s</xliff:g> çevrimiçi"</string>
+    <string name="contact_away">"<xliff:g id="USER">%1$s</xliff:g> dışarıda"</string>
+    <string name="contact_busy">"<xliff:g id="USER">%1$s</xliff:g> meşgul"</string>
+    <string name="contact_offline">"<xliff:g id="USER">%1$s</xliff:g> çevrimdışı"</string>
+    <string name="contact_joined">"<xliff:g id="USER">%1$s</xliff:g> bağlandı"</string>
+    <string name="contact_left">"<xliff:g id="USER">%1$s</xliff:g> ayrıldı"</string>
+    <!-- no translation found for time_stamp (8952691401963972802) -->
+    <skip />
+    <string name="send">"Gönder"</string>
+    <string name="msg_sent_failed">"Bu ileti gönderilemedi."</string>
+    <string name="disconnected_warning">"Sunucu bağlantısı kesildi. İletiler çevrimiçi olduğunuzda gönderilecek."</string>
+    <string name="contact_offline_warning">"<xliff:g id="USER_0">%1$s</xliff:g> çevrimdışı. Gönderdiğiniz iletiler <xliff:g id="USER_1">%1$s</xliff:g> çevrimiçi olduğunda teslim edilecek."</string>
+    <string name="contact_not_in_list_warning">"<xliff:g id="USER">%1$s</xliff:g> sizin Kişi listenizde değil."</string>
+    <string name="select_link_title">"Bağlantı seç"</string>
+    <string name="empty_chat_list">"Etkin sohbet yok."</string>
+    <string name="add_contact_title">"Kişi ekle"</string>
+    <string name="input_contact_label">"Davet etmek istediğiniz kişinin e-posta adresi:"</string>
+    <!-- no translation found for choose_list_label (1430489448508574145) -->
+    <skip />
+    <string name="invite_instruction">"Kişiler\'den eklemek için bir ad girin."</string>
+    <string name="invite_label">"Davet gönder"</string>
+    <string name="setting_title">"Genel ayarlar"</string>
+    <string name="hide_offline_contacts">"Çevrimdışı kişleri gizle"</string>
+    <string name="notification_group_title">"Bildirim ayarları"</string>
+    <string name="notification_enabled_title">"IM bildirimleri"</string>
+    <string name="notification_enabled_summary">"IM geldiğinde durum çubuğunda göster"</string>
+    <string name="notification_vibrate_title">"Titreşim"</string>
+    <string name="notification_vibrate_summary">"Ayrıca, IM geldiğinde titret"</string>
+    <string name="notification_sound_title">"Ses"</string>
+    <string name="notification_sound_summary">"IM geldiğinde zil sesini de çaldır"</string>
+    <string name="notification_ringtone_title">"Zil sesi seç"</string>
+    <string name="invitation_prompt">"<xliff:g id="USER">%1$s</xliff:g>, sizi bir grup sohbetine katılmaya davet etti."</string>
+    <string name="invitation_sent_prompt">"Davet <xliff:g id="USER">%1$s</xliff:g> adlı kullanıcıya gönderildi."</string>
+    <string name="accept_invitation">"Kabul et"</string>
+    <string name="decline_invitation">"Reddet"</string>
+    <string name="subscription_prompt">"<xliff:g id="USER">%1$s</xliff:g>, sizi kendi Kişi listesinde olmanız için davet etti."</string>
+    <string name="approve_subscription">"Kabul et"</string>
+    <string name="decline_subscription">"Reddet"</string>
+    <string name="approve_subscription_error">"<xliff:g id="USER">%1$s</xliff:g> kullanıcısından aboneliği onaylıyamıyor. Lütfen tekrar deneyin."</string>
+    <string name="decline_subscription_error">"<xliff:g id="USER">%1$s</xliff:g> kullanıcısından aboneliği reddedemiyor. Lütfen tekrar deneyin."</string>
+    <string name="newMessages_label">"Yeni <xliff:g id="PROVIDER">%1$s</xliff:g> ileti"</string>
+    <string name="num_unread_chats">"<xliff:g id="NUMBER">%1$d</xliff:g> okunmamış sohbet."</string>
+    <string name="subscription_notify_text">"<xliff:g id="USER">%s</xliff:g> kullanıcısından yeni ardakaş daveti"</string>
+    <string name="notify_groupchat_label">"Grup sohbeti daveti"</string>
+    <string name="group_chat_invite_notify_text">"<xliff:g id="USER">%s</xliff:g> adlı kullanıcıdan yeni grup sohbeti daveti"</string>
+    <string name="add_contact_success">"\"<xliff:g id="USER">%1$s</xliff:g>\" adlı kişi eklendi."</string>
+    <string name="delete_contact_success">"\"<xliff:g id="USER">%1$s</xliff:g>\" adlı kişi silindi."</string>
+    <string name="block_contact_success">"\"<xliff:g id="USER">%1$s</xliff:g>\" adlı kişi engellendi."</string>
+    <string name="unblock_contact_success">"\"<xliff:g id="USER">%1$s</xliff:g>\" kişisi engellemesi kaldırıldı."</string>
+    <string name="perm_label">"IM hizmeti başlat"</string>
+    <string name="perm_desc">"Uygulamaların IM hizmetini amaca göre başlatmasına olanak tanır"</string>
+    <string name="error">"Dikkat"</string>
+    <string name="login_service_failed">"<xliff:g id="SERVICE">%1$s</xliff:g> hizmetinde oturum açılamıyor. Lütfen daha sonra tekrar deneyin."\n"(Ayrıntı:<xliff:g id="DESCRIPTION">%2$s</xliff:g>)"</string>
+    <string name="add_list_failed">"Liste eklenmedi."</string>
+    <string name="block_contact_failed">"Kişi engellenmedi."</string>
+    <string name="unblock_contact_failed">"Kişi engellemesi kaldırılmadı."</string>
+    <string name="select_contact">"Lütfen önce bir kişi seçin."</string>
+    <string name="disconnected">"Bağlantı kesildi!"\n</string>
+    <string name="service_error">"Hizmet hatası!"</string>
+    <string name="load_contact_list_failed">"Kişi listesi yüklenmedi."</string>
+    <string name="cant_connect_to_server">"Sunucuya bağlanılamıyor. Lütfen bağlantınızı kontrol edin."</string>
+    <string name="contact_already_exist">"<xliff:g id="USER">%1$s</xliff:g> zaten sizin Kişi listenizde bulunuyor."</string>
+    <string name="contact_blocked">"\"<xliff:g id="USER">%1$s</xliff:g>\" adlı kişi engellendi."</string>
+    <string name="contact_not_loaded">"Kişi listeniz yüklenirken bekleyin."</string>
+    <string name="network_error">"Bir ağ hatası oluştu."</string>
+    <string name="service_not_support">"Sunucu bu işlevi desteklemiyor."</string>
+    <string name="invalid_password">"Girdiğiniz şifre geçerli değil."</string>
+    <string name="internal_server_error">"Sunucu bir hatayla karşılaştı."</string>
+    <string name="not_implemented">"Sunucu bu işlevi desteklemiyor."</string>
+    <string name="service_unavaiable">"Sunucu şu an için kullanılamıyor."</string>
+    <string name="timeout">"Sunucu zaman aşımına uğradı."</string>
+    <string name="version_not_supported">"Sunucu yeni sürümü desteklemiyor."</string>
+    <string name="message_queue_full">"İleti kuyruğu dolu."</string>
+    <string name="domain_not_supported">"Sunucu, etki alanına iletme işlemini desteklemiyor."</string>
+    <string name="unknown_user">"Girdiğiniz kullanıcı adı tanınmadı."</string>
+    <string name="recipient_blocked_the_user">"Maalesef, kullanıcı tarafından engellendiniz."</string>
+    <string name="session_expired">"Oturum sona erdi, lütfen tekrar oturum açın."</string>
+    <string name="forced_logout">"başka bir istemciden oturum açmıştınız."</string>
+    <string name="already_logged_in">"zaten başka bir istemciden oturum açmıştınız."</string>
+    <string name="msisdn_error">"Maalesef, telefon numaranız SIM kartınızdan okunamıyor. Lütfen yardım almak için operatörünüzle iletişim kurun."</string>
+    <string name="not_signed_in">"Şu anda oturum açmadınız."</string>
+    <string name="general_error">"Hata kodu <xliff:g id="CODE">%1$d</xliff:g>"</string>
+  <string-array name="default_smiley_names">
+    <item>"Mutlu"</item>
+    <item>"Üzgün"</item>
+    <item>"Göz kırpma"</item>
+    <item>"Dil çıkarma"</item>
+    <item>"Şaşırmış"</item>
+    <item>"Öpücük"</item>
+    <item>"Bağırma"</item>
+    <item>"Havalı"</item>
+    <item>"Para ağzı"</item>
+    <item>"Ayak ağızda"</item>
+    <item>"Utanmış"</item>
+    <item>"Melek"</item>
+    <item>"Kararsız"</item>
+    <item>"Ağlama"</item>
+    <item>"Dudakları mühürlü"</item>
+    <item>"Gülme"</item>
+    <item>"Kafası karışmış"</item>
+  </string-array>
+</resources>
