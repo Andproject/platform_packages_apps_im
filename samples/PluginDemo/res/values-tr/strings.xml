@@ -16,34 +16,34 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="menu_add_contact">"Kişi Ekle"</string>
-    <string name="menu_remove_contact">"Kişi Sil"</string>
+    <string name="menu_remove_contact">"Kişiyi Sil"</string>
     <string name="menu_block_contact">"Engelle"</string>
     <string name="menu_contact_list">"Kişi Listesi"</string>
     <string name="menu_start_chat">"IM Gönder"</string>
     <string name="menu_view_profile">"Arkadaş Bilgileri"</string>
-    <string name="menu_end_conversation">"Sohbeti Sonlandır"</string>
-    <string name="menu_switch_chats">"Sohbetleri Değiştir"</string>
-    <string name="menu_insert_smiley">"İfade ekle"</string>
-    <string name="sign_up">"Yeni bir hesap al"</string>
-    <string name="check_save_password">"Telefonunuz kaybolduysa veya çalındıysa, güvenliğiniz için, bilgisayarınızdan Web sitesine girip şifrenizi değiştirin."</string>
-    <string name="buddy_list_title">"Kişi listesi - <xliff:g id="USERNAME">%1$s</xliff:g>"</string>
+    <string name="menu_end_conversation">"İleti Dizisini Sonlandır"</string>
+    <string name="menu_switch_chats">"Sohbetler Arasında Geçiş Yap"</string>
+    <string name="menu_insert_smiley">"İfade Ekle"</string>
+    <string name="sign_up">"Yeni hesap al"</string>
+    <string name="check_save_password">"Telefonunuz kaybolur veya çalınırsa, güvenliğiniz için bilgisayarınızdan Web sitesine gidin ve şifrenizi değiştirin."</string>
+    <string name="buddy_list_title">"Kişi Listesi - <xliff:g id="USERNAME">%1$s</xliff:g>"</string>
     <string name="label_username">"Kullanıcı adı:"</string>
-    <string name="ongoing_conversation">"Sohbetler (<xliff:g id="NUMBER">%1$d</xliff:g>)"</string>
-    <string name="contact_profile_title">"İletişim Bilgileri"</string>
-    <string name="presence_available">"Çevrimiçi"</string>
+    <string name="ongoing_conversation">"Konuşmalar (<xliff:g id="NUMBER">%1$d</xliff:g>)"</string>
+    <string name="contact_profile_title">"Kişi Bilgileri"</string>
+    <string name="presence_available">"Müsait"</string>
     <string name="add_contact_title">"Kişi Ekle"</string>
     <string name="input_contact_label">"Eklemek istediğiniz kişinin ekran adı:"</string>
     <string name="invite_label">"Arkadaş Ekle"</string>
   <string-array name="smiley_names">
     <item>"Mutlu"</item>
     <item>"Üzgün"</item>
-    <item>"Göz kırpma"</item>
-    <item>"Dil çıkarma"</item>
+    <item>"Göz Kırpma"</item>
+    <item>"Dil çıkarmış"</item>
     <item>"Şaşırmış"</item>
     <item>"Öpücük"</item>
     <item>"Bağırma"</item>
-    <item>"Havalı"</item>
-    <item>"Para ağzı"</item>
+    <item>"Sakin"</item>
+    <item>"Para ağızlı"</item>
     <item>"Ayak ağızda"</item>
     <item>"Utanmış"</item>
     <item>"Melek"</item>
