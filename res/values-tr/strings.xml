@@ -20,7 +20,7 @@
     <string name="menu_add_contact">"Kişi ekle"</string>
     <string name="menu_remove_contact">"Kişiyi sil"</string>
     <string name="menu_block_contact">"Kişiyi engelle"</string>
-    <string name="menu_view_blocked">"Engellendi"</string>
+    <string name="menu_view_blocked">"Engellenenler"</string>
     <string name="menu_view_accounts">"Hesap listesi"</string>
     <string name="menu_settings">"Ayarlar"</string>
     <string name="menu_start_chat">"Sohbeti başlat"</string>

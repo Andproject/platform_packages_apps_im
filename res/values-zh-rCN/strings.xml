@@ -31,7 +31,7 @@
     <string name="menu_invite_contact">"邀请..."</string>
     <string name="menu_switch_chats">"切换聊天"</string>
     <string name="menu_insert_smiley">"插入表情符"</string>
-    <string name="menu_plus">"菜单+"</string>
+    <string name="menu_plus">"MENU+"</string>
     <string name="default_input_title">"输入"</string>
     <string name="confirm">"确认"</string>
     <string name="confirm_delete_contact">"将会删除联系人“<xliff:g id="USER">%1$s</xliff:g>”。"</string>
