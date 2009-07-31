@@ -47,7 +47,7 @@
     <string name="label_username">"Nombre de usuario:"</string>
     <string name="label_password">"Contraseña:"</string>
     <string name="remember_password">"Recordar mi contraseña."</string>
-    <string name="keep_me_signed_in">"Iniciar sesión automáticamente"</string>
+    <string name="keep_me_signed_in">"Iniciar sesión automát."</string>
     <string name="sign_up">"¿No tienes una cuenta?"</string>
     <string name="check_auto_sign_in">"Esta opción inicia la sesión automáticamente cada vez que abres la aplicación. Para desactivarla, sal de la sesión y quita la marca de verificación de la casilla \"Iniciar sesión automáticamente\"."</string>
     <string name="sign_in">"Inicia sesión"</string>
@@ -104,7 +104,7 @@
     <string name="setting_title">"Configuración general"</string>
     <string name="hide_offline_contacts">"Ocultar contactos desconectados"</string>
     <string name="notification_group_title">"Configuración de notificación"</string>
-    <string name="notification_enabled_title">"Notificaciones de mensajería instantánea"</string>
+    <string name="notification_enabled_title">"Notific. de mensaj. instantánea"</string>
     <string name="notification_enabled_summary">"Notificar en la barra de estado cuando llega mensajería instantánea"</string>
     <string name="notification_vibrate_title">"Vibrar"</string>
     <string name="notification_vibrate_summary">"Vibrar también cuando llega mensajería instantánea"</string>

@@ -81,7 +81,7 @@
     <string name="presence_invisible">"Çevrimdışı göster"</string>
     <string name="chat_with">"<xliff:g id="USER">%1$s</xliff:g> ile sohbet et"</string>
     <string name="me">"Ben"</string>
-    <string name="compose_hint">"İleti oluşturmak için yazın"</string>
+    <string name="compose_hint">"Oluşturmak için yazın"</string>
     <string name="contact_online">"<xliff:g id="USER">%1$s</xliff:g> çevrimiçi"</string>
     <string name="contact_away">"<xliff:g id="USER">%1$s</xliff:g> dışarıda"</string>
     <string name="contact_busy">"<xliff:g id="USER">%1$s</xliff:g> meşgul"</string>
@@ -165,7 +165,7 @@
   <string-array name="default_smiley_names">
     <item>"Mutlu"</item>
     <item>"Üzgün"</item>
-    <item>"Göz Kırpma"</item>
+    <item>"Göz kırpma"</item>
     <item>"Dil çıkarmış"</item>
     <item>"Şaşırmış"</item>
     <item>"Öpücük"</item>

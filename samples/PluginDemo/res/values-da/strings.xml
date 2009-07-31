@@ -15,10 +15,10 @@
 -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="menu_add_contact">"Tilføj kontaktperson"</string>
-    <string name="menu_remove_contact">"Slet kontaktperson"</string>
+    <string name="menu_add_contact">"Tilføj kontakt"</string>
+    <string name="menu_remove_contact">"Slet kontakt"</string>
     <string name="menu_block_contact">"Bloker"</string>
-    <string name="menu_contact_list">"Liste over kontaktpersoner"</string>
+    <string name="menu_contact_list">"Liste over kontakter"</string>
     <string name="menu_start_chat">"Send IM"</string>
     <string name="menu_view_profile">"Venneoplysninger"</string>
     <string name="menu_end_conversation">"Afslut samtale"</string>
@@ -26,12 +26,12 @@
     <string name="menu_insert_smiley">"Indsæt humørikoner"</string>
     <string name="sign_up">"Få en ny konto"</string>
     <string name="check_save_password">"For din egen sikkerheds skyld skal du gå til webstedet på din computer og ændre din adgangskode, hvis du mister din telefon, eller den bliver stjålet."</string>
-    <string name="buddy_list_title">"Liste over kontaktpersoner – <xliff:g id="USERNAME">%1$s</xliff:g>"</string>
+    <string name="buddy_list_title">"Liste over kontakter – <xliff:g id="USERNAME">%1$s</xliff:g>"</string>
     <string name="label_username">"Brugernavn:"</string>
     <string name="ongoing_conversation">"Samtaler (<xliff:g id="NUMBER">%1$d</xliff:g>)"</string>
     <string name="contact_profile_title">"Kontaktoplysninger"</string>
     <string name="presence_available">"Ledig"</string>
-    <string name="add_contact_title">"Tilføj kontaktperson"</string>
+    <string name="add_contact_title">"Tilføj kontakt"</string>
     <string name="input_contact_label">"Skærmnavn for den person du ønsker at tilføje:"</string>
     <string name="invite_label">"Tilføj ven"</string>
   <string-array name="smiley_names">

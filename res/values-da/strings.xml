@@ -17,9 +17,9 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="im_label">"IM"</string>
     <string name="menu_cancel_signin">"Annuller login"</string>
-    <string name="menu_add_contact">"Tilføj kontaktperson"</string>
-    <string name="menu_remove_contact">"Slet kontaktperson"</string>
-    <string name="menu_block_contact">"Bloker kontaktperson"</string>
+    <string name="menu_add_contact">"Tilføj kontakt"</string>
+    <string name="menu_remove_contact">"Slet kontakt"</string>
+    <string name="menu_block_contact">"Bloker kontakt"</string>
     <string name="menu_view_blocked">"Blokeret"</string>
     <string name="menu_view_accounts">"Kontoliste"</string>
     <string name="menu_settings">"Indstillinger"</string>
@@ -27,16 +27,16 @@
     <string name="menu_sign_out">"Log ud"</string>
     <string name="menu_view_profile">"Vis profil"</string>
     <string name="menu_end_conversation">"Afslut chat"</string>
-    <string name="menu_view_contact_list">"Liste over kontaktpersoner"</string>
+    <string name="menu_view_contact_list">"Liste over kontakter"</string>
     <string name="menu_invite_contact">"Inviter ..."</string>
     <string name="menu_switch_chats">"Skift chats"</string>
     <string name="menu_insert_smiley">"Indsæt smiley"</string>
     <string name="menu_plus">"Menu+"</string>
     <string name="default_input_title">"Input"</string>
     <string name="confirm">"Bekræft"</string>
-    <string name="confirm_delete_contact">"Kontaktpersonen \"<xliff:g id="USER">%1$s</xliff:g>\" slettes."</string>
-    <string name="confirm_block_contact">"Kontaktpersonen \"<xliff:g id="USER">%1$s</xliff:g>\" blokeres."</string>
-    <string name="confirm_unblock_contact">"Blokeringen af kontaktpersonen \"<xliff:g id="USER">%1$s</xliff:g>\" ophæves."</string>
+    <string name="confirm_delete_contact">"Kontakten \"<xliff:g id="USER">%1$s</xliff:g>\" slettes."</string>
+    <string name="confirm_block_contact">"Kontakten \"<xliff:g id="USER">%1$s</xliff:g>\" blokeres."</string>
+    <string name="confirm_unblock_contact">"Blokeringen af kontakten \"<xliff:g id="USER">%1$s</xliff:g>\" ophæves."</string>
     <string name="ok">"OK"</string>
     <string name="cancel">"Annuller"</string>
     <string name="yes">"OK"</string>
@@ -63,12 +63,12 @@
     <string name="unknown_contact">"("<i>"Ukendt"</i>")"</string>
     <string name="empty_contact_group">"Tom"</string>
     <string name="empty_conversation_group">"Der er ingen samtaler"</string>
-    <string name="contacts_picker_title">"Vælg kontaktperson(er), der skal inviteres"</string>
-    <string name="contact_filter_hint">"Indtast for at finde kontaktperson"</string>
-    <string name="empty_contact_list">"Der blev ikke fundet nogen kontaktpersoner."</string>
-    <string name="blocked_list_title">"Blokerede kontaktpersoner – <xliff:g id="USER">%1$s</xliff:g>"</string>
-    <string name="no_blocked_contact">"Der er ingen blokerede kontaktpersoner."</string>
-    <string name="contact_profile_title">"Kontaktpersonens profil"</string>
+    <string name="contacts_picker_title">"Vælg kontakt(er), der skal inviteres"</string>
+    <string name="contact_filter_hint">"Indtast for at finde kontakt"</string>
+    <string name="empty_contact_list">"Der blev ikke fundet nogen kontakter."</string>
+    <string name="blocked_list_title">"Blokerede kontakter – <xliff:g id="USER">%1$s</xliff:g>"</string>
+    <string name="no_blocked_contact">"Der er ingen blokerede kontakter."</string>
+    <string name="contact_profile_title">"Kontaktens profil"</string>
     <string name="label_status">"Status:"</string>
     <string name="label_client_type">"Klienttype:"</string>
     <string name="client_type_computer">"Computer"</string>
@@ -93,16 +93,16 @@
     <string name="msg_sent_failed">"Beskeden kunne ikke sendes."</string>
     <string name="disconnected_warning">"Forbindelsen til serveren er gået tabt. Beskeden sendes, når du er online."</string>
     <string name="contact_offline_warning">"<xliff:g id="USER_0">%1$s</xliff:g> er offline. Dine sendte beskeder sendes, når <xliff:g id="USER_1">%1$s</xliff:g> er online igen."</string>
-    <string name="contact_not_in_list_warning">"<xliff:g id="USER">%1$s</xliff:g> er ikke på din liste over kontaktpersoner."</string>
+    <string name="contact_not_in_list_warning">"<xliff:g id="USER">%1$s</xliff:g> er ikke på din liste over kontakter."</string>
     <string name="select_link_title">"Vælg link"</string>
     <string name="empty_chat_list">"Der er ingen aktive chats."</string>
-    <string name="add_contact_title">"Tilføj kontaktperson"</string>
+    <string name="add_contact_title">"Tilføj kontakt"</string>
     <string name="input_contact_label">"E-mail-adresse på den person, du ønsker at invitere:"</string>
     <string name="choose_list_label">"Vælg en liste:"</string>
-    <string name="invite_instruction">"Indtast et navn for at tilføje fra Kontaktpersoner."</string>
+    <string name="invite_instruction">"Indtast et navn for at tilføje fra Kontakter."</string>
     <string name="invite_label">"Send invitation"</string>
     <string name="setting_title">"Generelle indstillinger"</string>
-    <string name="hide_offline_contacts">"Skjul offline kontaktpersoner"</string>
+    <string name="hide_offline_contacts">"Skjul offline kontakter"</string>
     <string name="notification_group_title">"Meddelelsesindstillinger"</string>
     <string name="notification_enabled_title">"IM-meddelelser"</string>
     <string name="notification_enabled_summary">"Underret i statuslinjen, når der kommer en IM"</string>
@@ -115,7 +115,7 @@
     <string name="invitation_sent_prompt">"Invitationen er sendt til <xliff:g id="USER">%1$s</xliff:g>."</string>
     <string name="accept_invitation">"Accepter"</string>
     <string name="decline_invitation">"Afvis"</string>
-    <string name="subscription_prompt">"<xliff:g id="USER">%1$s</xliff:g> har inviteret dig til at være på deres liste over kontaktpersoner."</string>
+    <string name="subscription_prompt">"<xliff:g id="USER">%1$s</xliff:g> har inviteret dig til at være på deres liste over kontakter."</string>
     <string name="approve_subscription">"Accepter"</string>
     <string name="decline_subscription">"Afvis"</string>
     <string name="approve_subscription_error">"Tilmelding fra <xliff:g id="USER">%1$s</xliff:g> kunne ikke godkendes. Prøv igen senere."</string>
@@ -125,25 +125,25 @@
     <string name="subscription_notify_text">"Ny venneinvitation fra <xliff:g id="USER">%s</xliff:g>"</string>
     <string name="notify_groupchat_label">"Gruppechatinvitation"</string>
     <string name="group_chat_invite_notify_text">"Ny gruppechatinvitation fra <xliff:g id="USER">%s</xliff:g>"</string>
-    <string name="add_contact_success">"Kontaktpersonen \"<xliff:g id="USER">%1$s</xliff:g>\" er tilføjet."</string>
-    <string name="delete_contact_success">"Kontaktpersonen \"<xliff:g id="USER">%1$s</xliff:g>\" er slettet."</string>
-    <string name="block_contact_success">"Kontaktpersonen \"<xliff:g id="USER">%1$s</xliff:g>\" er blokeret."</string>
-    <string name="unblock_contact_success">"Kontaktpersonen \"<xliff:g id="USER">%1$s</xliff:g>\" er ikke længere blokeret."</string>
+    <string name="add_contact_success">"Kontakten \"<xliff:g id="USER">%1$s</xliff:g>\" er tilføjet."</string>
+    <string name="delete_contact_success">"Kontakten \"<xliff:g id="USER">%1$s</xliff:g>\" er slettet."</string>
+    <string name="block_contact_success">"Kontakten \"<xliff:g id="USER">%1$s</xliff:g>\" er blokeret."</string>
+    <string name="unblock_contact_success">"Kontakten \"<xliff:g id="USER">%1$s</xliff:g>\" er ikke længere blokeret."</string>
     <string name="perm_label">"start IM-tjeneste"</string>
     <string name="perm_desc">"Lader programmer starte IM-tjeneste efter hensigt."</string>
     <string name="error">"Bemærk"</string>
     <string name="login_service_failed">"Der kunne ikke logges ind på tjenesten <xliff:g id="SERVICE">%1$s</xliff:g>. Prøv igen senere."\n"(Detalje: <xliff:g id="DESCRIPTION">%2$s</xliff:g>)"</string>
     <string name="add_list_failed">"Listen blev ikke tilføjet."</string>
-    <string name="block_contact_failed">"Kontaktpersonen blev ikke blokeret."</string>
-    <string name="unblock_contact_failed">"Blokeringen af kontaktpersonen blev ikke ophævet."</string>
-    <string name="select_contact">"Vælg en kontaktperson først."</string>
+    <string name="block_contact_failed">"Kontakten blev ikke blokeret."</string>
+    <string name="unblock_contact_failed">"Blokeringen af kontakten blev ikke ophævet."</string>
+    <string name="select_contact">"Vælg en kontakt først."</string>
     <string name="disconnected">"Afbrudt!"\n</string>
     <string name="service_error">"Servicefejl!"</string>
-    <string name="load_contact_list_failed">"Listen over kontaktpersoner blev ikke indlæst."</string>
+    <string name="load_contact_list_failed">"Listen over kontakter blev ikke indlæst."</string>
     <string name="cant_connect_to_server">"Der kan ikke oprettes forbindelse til serveren. Kontroller din forbindelse."</string>
-    <string name="contact_already_exist">"<xliff:g id="USER">%1$s</xliff:g> findes allerede på din liste over kontaktpersoner."</string>
-    <string name="contact_blocked">"Kontaktpersonen \"<xliff:g id="USER">%1$s</xliff:g>\" er blevet blokeret."</string>
-    <string name="contact_not_loaded">"Vent, mens din liste over kontaktpersoner indlæses."</string>
+    <string name="contact_already_exist">"<xliff:g id="USER">%1$s</xliff:g> findes allerede på din liste over kontakter."</string>
+    <string name="contact_blocked">"Kontakten \"<xliff:g id="USER">%1$s</xliff:g>\" er blevet blokeret."</string>
+    <string name="contact_not_loaded">"Vent, mens din liste over kontakter indlæses."</string>
     <string name="network_error">"Der opstod en netværksfejl."</string>
     <string name="service_not_support">"Serveren understøtter ikke denne funktionalitet."</string>
     <string name="invalid_password">"Den adgangskode, du indtastede, er ikke gyldig."</string>

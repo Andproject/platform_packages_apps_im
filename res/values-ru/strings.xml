@@ -54,7 +54,7 @@
     <string name="signing_in_to">"Вход в <xliff:g id="ACCOUNT">%1$s</xliff:g>"</string>
     <string name="signing_in_wait">"Выполняется вход..."</string>
     <string name="bg_data_prompt_title">"Исходные данные отключены"</string>
-    <string name="bg_data_prompt_message">"<xliff:g id="PROVIDER">%1$s</xliff:g> требует, чтобы были включены исходные данные"</string>
+    <string name="bg_data_prompt_message">"<xliff:g id="PROVIDER">%1$s</xliff:g> требует, чтобы использование фоновых данных было разрешено"</string>
     <string name="bg_data_prompt_ok">"Включить"</string>
     <string name="bg_data_prompt_cancel">"Выйти"</string>
     <string name="ongoing_conversation">"Текущих чатов: (<xliff:g id="NUMBER">%1$d</xliff:g>)"</string>
